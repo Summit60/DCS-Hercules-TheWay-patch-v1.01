@@ -15,3 +15,6 @@ Special thanks to the following for putting up with my endless questions to get 
 Someone_somewhere	(Herc mod dev)
 Doge			(The way dev)
 Tanuki44		(UH-60L sub mod dev)
+
+update v1.01
+Fixed typo leading to the letter "K" not being able to be used.
